@@ -1,2 +1,2 @@
 # phone-icp
-workshop
+2025 Patika.dev Internship
